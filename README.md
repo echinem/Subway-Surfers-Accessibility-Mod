@@ -1,13 +1,17 @@
 # SUBWAY-SURFERS
 
-English ｜ [中文](https://github.com/DanielLin0516/SUBWAY-SURFERS/blob/master/README_ZH.md)
+English ｜ (https://github.com/DanielLin0516/SUBWAY-SURFERS/blob/master/README_ZH.md)
 
 SUBWAY-SURFERS made with Three.js
 
-You can play the game online [here](https://subway-surfers-threejs.vercel.app/).
+You can play the original game online [here](https://subway-surfers-threejs.vercel.app/).
 
+## Accessibility Game Modes:
+- Eye-tracking
+- Voice control
+- Audio Cues
 
-## Features:
+## Basic Features:
 
 - Infinite map
 - Collision front and rear
